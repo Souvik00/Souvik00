@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik00" alt="souvik00" /></a> </p>
 
-- 🔭 I’m currently **Under Graduate Student of CSE**
+-  **I’m currently a undergraduate student of Computer Science and Engineering at University of Rajshahi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
