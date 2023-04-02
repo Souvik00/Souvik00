@@ -8,8 +8,7 @@
 
 ![Codeforces](https://badges.joonhyung.xyz/codeforces/spectra_404.svg) 
 ![AtCoder](https://badges.joonhyung.xyz/atcoder/Souvik00.svg)
-[![Codeforces](https://badges.joonhyung.xyz/codeforces/spectra_404.svg)](https://codeforces.com/profile/spectra_404)
-[![AtCoder](https://badges.joonhyung.xyz/atcoder/Souvik00.svg)](https://atcoder.jp/users/Souvik00)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/souvik-sanyal-3566b6243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/souvik-sanyal-3566b6243/" height="30" width="40" /></a>
@@ -17,7 +16,7 @@
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100089085221895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100089085221895" height="30" width="40" /></a>
 <a href="https://instagram.com/souvik_avro00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souvik_avro00" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/souvik avro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="souvik avro" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/spectra_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="spectra_404" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/souvik_avro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souvik_avro" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/souvik sanyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="souvik sanyal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/souvikavro00sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="souvikavro00sa" height="30" width="40" /></a>
