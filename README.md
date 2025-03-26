@@ -1,7 +1,7 @@
 <h1 align="center">Hey , it's Souvik Sanyal here</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik00&label=Profile%20views&color=0e75b6&style=flat" alt="souvik00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik00" alt="souvik00" /></a> </p>
+
 
 -  **I’m currently a undergraduate student of Computer Science and Engineering at University of Rajshahi**
 
